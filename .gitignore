@@ -1,0 +1,10 @@
+.env
+dist/
+node_modules/
+node_modules
+dist
+package-lock.json
+users.csv
+.profile
+yarn.lock
+yarn-error.log
